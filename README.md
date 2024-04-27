@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -27,5 +26,3 @@
     <img src="images/yakiniku.jpg" alt="燒肉圖片" width="300">
 </body>
 </html>
-
-```
